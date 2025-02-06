@@ -1,5 +1,6 @@
-# Portfolio Website
+![image_alt](https://github.com/sandeepswain03/Portfolio-Website/blob/12dedda7a79f30a4862f9a96c3fbe7b181aa8994/Website.png)
 
+# Portfolio Website
 A brief description or overview of what the website is about.
 
 ## Table of Contents
